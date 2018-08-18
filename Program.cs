@@ -7,8 +7,8 @@ namespace miprograma
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Nombre: Jose Delio Gonzales Aracena");
-            Console.WriteLine("Matricula: 17-EIIN-1-108");
+            Console.WriteLine("Nombre: Alexander Portes Aquino");
+            Console.WriteLine("Matricula: 17-EIIN-1-103");
             Console.WriteLine();
 
 	        Console.Write("Este programa imprime los cuadrados de los primeros n enteros.");
